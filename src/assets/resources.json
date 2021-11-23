@@ -1,0 +1,20 @@
+{
+  "projects": [
+    {
+      "name": "Weather App",
+      "tech": "React, Express, and Node JS",
+      "descriptions": [
+        "An application made with React, Node, Express, and OpenWeather API—a simple app that shows the current and forecasted weather within the next seven days of a city."
+      ]
+    },
+    {
+      "name": "Inventory Management System (WIP)",
+      "tech": "MongoDB, Express, React, and Node JS",
+      "descriptions": [
+        "An application wherein a user can keep track their inventory",
+        "Front-end client is made with React, Redux-Toolkit, ReduxSaga, Axios, Typescript and uses Material UI",
+        "Back-end server is a REST API made with Node JS, Express, Passport, JWT, TypeScript, and MongoDB for data storage, and is currently deployed and running on Heroku."
+      ]
+    }
+  ]
+}
